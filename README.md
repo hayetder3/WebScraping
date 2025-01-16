@@ -37,4 +37,13 @@ En combinant **Selenium** et **BeautifulSoup**, nous obtenons un processus robus
 Tu peux installer ces bibliothèques avec la commande suivante :
 
 ```bash
+
 pip install requests beautifulsoup4 selenium
+
+**Cloner le projet** : Utilisez `git clone` pour récupérer le projet depuis GitHub (ou un autre service de gestion de version).
+   
+2. **Installer les dépendances** : Une fois dans le répertoire du projet, exécutez `npm install` pour installer toutes les dépendances nécessaires listées dans `package.json`.
+
+3. **Démarrer l'application en mode développement** : Utilisez `npm start` pour démarrer le serveur de développement. L'application sera accessible à l'adresse [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+4. **Créer une version optimisée** : Exécutez `npm run build` pour générer une version prête pour la production dans le dossier `build/`.
