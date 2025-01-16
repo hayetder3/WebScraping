@@ -1,0 +1,1170 @@
+[
+    {
+        "Name": "Aatrox",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Aatrox_Render.png",
+        "Health": "650 - 2588",
+        "Movement Speed": "345",
+        "Armor": "38 - 119.6",
+        "Attack Damage": "60 - 145"
+    },
+    {
+        "Name": "Ahri",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png",
+        "Health": "590 - 2358",
+        "Movement Speed": "330",
+        "Armor": "21 - 100.9",
+        "Attack Damage": "53 - 104"
+    },
+    {
+        "Name": "Akali",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Akali_Render.png",
+        "Health": "119",
+        "Movement Speed": "345",
+        "Armor": "4.7",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Akshan",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Akshan_Render.png",
+        "Health": "107",
+        "Movement Speed": "330",
+        "Armor": "4.7",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Alistar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Alistar_Render.png",
+        "Health": "685 - 2725",
+        "Movement Speed": "330",
+        "Armor": "47 - 126.9",
+        "Attack Damage": "62 - 125.75"
+    },
+    {
+        "Name": "Amumu",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Amumu_Render.png",
+        "Health": "94",
+        "Movement Speed": "335",
+        "Armor": "4",
+        "Attack Damage": "3.8"
+    },
+    {
+        "Name": "Anivia",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Anivia_Render.png",
+        "Health": "550 - 2114",
+        "Movement Speed": "325",
+        "Armor": "21 - 97.5",
+        "Attack Damage": "51 - 105.4"
+    },
+    {
+        "Name": "Annie",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Annie_Render.png",
+        "Health": "560 - 2294",
+        "Movement Speed": "335",
+        "Armor": "19 - 98.9",
+        "Attack Damage": "50 - 95.05"
+    },
+    {
+        "Name": "Aphelios",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Aphelios_Render.png",
+        "Health": "600 - 2334",
+        "Movement Speed": "325",
+        "Armor": "26 - 97.4",
+        "Attack Damage": "55 - 94.1"
+    },
+    {
+        "Name": "Ashe",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Ashe_Render.png",
+        "Health": "101",
+        "Movement Speed": "325",
+        "Armor": "4.6",
+        "Attack Damage": "2.95"
+    },
+    {
+        "Name": "Aurora",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Aurora_Render.png",
+        "Health": "607 - 2477",
+        "Movement Speed": "335",
+        "Armor": "23 - 99.5",
+        "Attack Damage": "53 - 104"
+    },
+    {
+        "Name": "Azir",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Azir_Render.png",
+        "Health": "550 - 2573",
+        "Movement Speed": "335",
+        "Armor": "25 - 110",
+        "Attack Damage": "56 - 115.5"
+    },
+    {
+        "Name": "Bard",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Bard_Render.png",
+        "Health": "630 - 2381",
+        "Movement Speed": "330",
+        "Armor": "34 - 119",
+        "Attack Damage": "52 - 103"
+    },
+    {
+        "Name": "Blitzcrank",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Blitzcrank_Render.png",
+        "Health": "600 - 2453",
+        "Movement Speed": "325",
+        "Armor": "37 - 116.9",
+        "Attack Damage": "62 - 121.5"
+    },
+    {
+        "Name": "Brand",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Brand_Render.png",
+        "Health": "570 - 2355",
+        "Movement Speed": "340",
+        "Armor": "27 - 98.4",
+        "Attack Damage": "57 - 108"
+    },
+    {
+        "Name": "Braum",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Braum_Render.png",
+        "Health": "112",
+        "Movement Speed": "335",
+        "Armor": "5.2",
+        "Attack Damage": "3.2"
+    },
+    {
+        "Name": "Briar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Briar_Render.png",
+        "Health": "95",
+        "Movement Speed": "340",
+        "Armor": "4.2",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Caitlyn",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Caitlyn_Render.png",
+        "Health": "580 - 2399",
+        "Movement Speed": "325",
+        "Armor": "27 - 106.9",
+        "Attack Damage": "60 - 124.6"
+    },
+    {
+        "Name": "Camille",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Camille_Render.png",
+        "Health": "99",
+        "Movement Speed": "340",
+        "Armor": "5",
+        "Attack Damage": "3.8"
+    },
+    {
+        "Name": "Cassiopeia",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Cassiopeia_Render.png",
+        "Health": "630 - 2398",
+        "Movement Speed": "328",
+        "Armor": "18 - 97.9",
+        "Attack Damage": "53 - 104"
+    },
+    {
+        "Name": "Corki",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Corki_Render.png",
+        "Health": "610 - 2310",
+        "Movement Speed": "325",
+        "Armor": "30 - 106.5",
+        "Attack Damage": "52 - 86"
+    },
+    {
+        "Name": "Darius",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Darius_Render.png",
+        "Health": "652 - 2590",
+        "Movement Speed": "340",
+        "Armor": "39 - 127.4",
+        "Attack Damage": "64 - 149"
+    },
+    {
+        "Name": "Diana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Diana_Render.png",
+        "Health": "109",
+        "Movement Speed": "345",
+        "Armor": "4.3",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Draven",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Draven_Render.png",
+        "Health": "104",
+        "Movement Speed": "330",
+        "Armor": "4.5",
+        "Attack Damage": "3.6"
+    },
+    {
+        "Name": "Ekko",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Ekko_Render.png",
+        "Health": "99",
+        "Movement Speed": "340",
+        "Armor": "4.2",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Elise",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Elise_Render.png",
+        "Health": "109",
+        "Movement Speed": "330",
+        "Armor": "4.5",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Evelynn",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Evelynn_Render.png",
+        "Health": "98",
+        "Movement Speed": "335",
+        "Armor": "4.7",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Ezreal",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ezreal_Render.png",
+        "Health": "600 - 2334",
+        "Movement Speed": "325",
+        "Armor": "24 - 103.9",
+        "Attack Damage": "60 - 106.75"
+    },
+    {
+        "Name": "Fiddlesticks",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Fiddlesticks_Render.png",
+        "Health": "650 - 2452",
+        "Movement Speed": "335",
+        "Armor": "34 - 113.9",
+        "Attack Damage": "55 - 100.05"
+    },
+    {
+        "Name": "Fiora",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Fiora_Render.png",
+        "Health": "99",
+        "Movement Speed": "345",
+        "Armor": "4.7",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Fizz",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Fizz_Render.png",
+        "Health": "640 - 2442",
+        "Movement Speed": "335",
+        "Armor": "22 - 100.2",
+        "Attack Damage": "58 - 109"
+    },
+    {
+        "Name": "Galio",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Galio_Render.png",
+        "Health": "632 - 2774",
+        "Movement Speed": "340",
+        "Armor": "24 - 103.9",
+        "Attack Damage": "59 - 118.5"
+    },
+    {
+        "Name": "Gangplank",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Gangplank_Render.png",
+        "Health": "114",
+        "Movement Speed": "345",
+        "Armor": "4.7",
+        "Attack Damage": "3.7"
+    },
+    {
+        "Name": "Garen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Garen_Render.png",
+        "Health": "690 - 2356",
+        "Movement Speed": "340",
+        "Armor": "38 - 109.4",
+        "Attack Damage": "69 - 145.5"
+    },
+    {
+        "Name": "Gnar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Gnar_Render.png",
+        "Health": "540 - 1883",
+        "Movement Speed": "335",
+        "Armor": "32 - 94.9",
+        "Attack Damage": "60 - 114.4"
+    },
+    {
+        "Name": "Gragas",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Gragas_Render.png",
+        "Health": "115",
+        "Movement Speed": "330",
+        "Armor": "5",
+        "Attack Damage": "3.5"
+    },
+    {
+        "Name": "Graves",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Graves_Render.png",
+        "Health": "625 - 2427",
+        "Movement Speed": "340",
+        "Armor": "33 - 111.2",
+        "Attack Damage": "68 - 136"
+    },
+    {
+        "Name": "Gwen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2f/Gwen_Render.png",
+        "Health": "115",
+        "Movement Speed": "340",
+        "Armor": "5.2",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Hecarim",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Hecarim_Render.png",
+        "Health": "625 - 2427",
+        "Movement Speed": "345",
+        "Armor": "32 - 124.65",
+        "Attack Damage": "66 - 128.9"
+    },
+    {
+        "Name": "Heimerdinger",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Heimerdinger_Render.png",
+        "Health": "558 - 2275",
+        "Movement Speed": "340",
+        "Armor": "19 - 90.4",
+        "Attack Damage": "56 - 101.9"
+    },
+    {
+        "Name": "Hwei",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Hwei_Render.png",
+        "Health": "580 - 2433",
+        "Movement Speed": "330",
+        "Armor": "21 - 100.9",
+        "Attack Damage": "54 - 110.1"
+    },
+    {
+        "Name": "Illaoi",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Illaoi_Render.png",
+        "Health": "656 - 2611",
+        "Movement Speed": "350",
+        "Armor": "35 - 120",
+        "Attack Damage": "65 - 150"
+    },
+    {
+        "Name": "Irelia",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Irelia_Render.png",
+        "Health": "630 - 2585",
+        "Movement Speed": "335",
+        "Armor": "36 - 115.9",
+        "Attack Damage": "65 - 124.5"
+    },
+    {
+        "Name": "Ivern",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Ivern_Render.png",
+        "Health": "630 - 2313",
+        "Movement Speed": "330",
+        "Armor": "27 - 106.9",
+        "Attack Damage": "50 - 101"
+    },
+    {
+        "Name": "Janna",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Janna_Render.png",
+        "Health": "570 - 2100",
+        "Movement Speed": "325",
+        "Armor": "28 - 104.5",
+        "Attack Damage": "47 - 89.5"
+    },
+    {
+        "Name": "Jax",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Jax_Render.png",
+        "Health": "665 - 2365",
+        "Movement Speed": "350",
+        "Armor": "36 - 107.4",
+        "Attack Damage": "68 - 140.25"
+    },
+    {
+        "Name": "Jayce",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Jayce_Render.png",
+        "Health": "590 - 2443",
+        "Movement Speed": "335",
+        "Armor": "22 - 107",
+        "Attack Damage": "59 - 131.25"
+    },
+    {
+        "Name": "Jhin",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Jhin_Render.png",
+        "Health": "655 - 2474",
+        "Movement Speed": "330",
+        "Armor": "24 - 103.9",
+        "Attack Damage": "59 - 133.8"
+    },
+    {
+        "Name": "Jinx",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png",
+        "Health": "630 - 2415",
+        "Movement Speed": "325",
+        "Armor": "26 - 105.9",
+        "Attack Damage": "59 - 108.3"
+    },
+    {
+        "Name": "Kalista",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Kalista_Render.png",
+        "Health": "600 - 2538",
+        "Movement Speed": "330",
+        "Armor": "24 - 112.4",
+        "Attack Damage": "59 - 114.25"
+    },
+    {
+        "Name": "Karma",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Karma_Render.png",
+        "Health": "630 - 2483",
+        "Movement Speed": "335",
+        "Armor": "28 - 113",
+        "Attack Damage": "51 - 107.1"
+    },
+    {
+        "Name": "Karthus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Karthus_Render.png",
+        "Health": "110",
+        "Movement Speed": "335",
+        "Armor": "4.7",
+        "Attack Damage": "3.25"
+    },
+    {
+        "Name": "Kassadin",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Kassadin_Render.png",
+        "Health": "646 - 2669",
+        "Movement Speed": "335",
+        "Armor": "19 - 87",
+        "Attack Damage": "59 - 125.3"
+    },
+    {
+        "Name": "Katarina",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_Render.png",
+        "Health": "672 - 2508",
+        "Movement Speed": "335",
+        "Armor": "28 - 107.9",
+        "Attack Damage": "58 - 112.4"
+    },
+    {
+        "Name": "Kayle",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Kayle_Zealous_Render.png",
+        "Health": "92",
+        "Movement Speed": "335",
+        "Armor": "4.2",
+        "Attack Damage": "2.5"
+    },
+    {
+        "Name": "Kayn",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Kayn_Render.png",
+        "Health": "109",
+        "Movement Speed": "340",
+        "Armor": "4.5",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Kennen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png",
+        "Health": "580 - 2246",
+        "Movement Speed": "335",
+        "Armor": "29 - 113.15",
+        "Attack Damage": "48 - 111.75"
+    },
+    {
+        "Name": "Kindred",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Kindred_Render.png",
+        "Health": "104",
+        "Movement Speed": "325",
+        "Armor": "4.7",
+        "Attack Damage": "3.25"
+    },
+    {
+        "Name": "Leona",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Leona_Render.png",
+        "Health": "646 - 2363",
+        "Movement Speed": "335",
+        "Armor": "43 - 124.6",
+        "Attack Damage": "60 - 111"
+    },
+    {
+        "Name": "Lillia",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Lillia_Render.png",
+        "Health": "605 - 2390",
+        "Movement Speed": "330",
+        "Armor": "22 - 98.5",
+        "Attack Damage": "61 - 113.7"
+    },
+    {
+        "Name": "Lissandra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Lissandra_Render.png",
+        "Health": "620 - 2490",
+        "Movement Speed": "325",
+        "Armor": "22 - 105.3",
+        "Attack Damage": "55 - 100.9"
+    },
+    {
+        "Name": "Lucian",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Lucian_Render.png",
+        "Health": "100",
+        "Movement Speed": "335",
+        "Armor": "4.2",
+        "Attack Damage": "2.9"
+    },
+    {
+        "Name": "Lulu",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Lulu_Render.png",
+        "Health": "595 - 2159",
+        "Movement Speed": "330",
+        "Armor": "26 - 109.3",
+        "Attack Damage": "47 - 91.2"
+    },
+    {
+        "Name": "Lux",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Lux_Render.png",
+        "Health": "99",
+        "Movement Speed": "330",
+        "Armor": "5.2",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Malphite",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Malphite_Render.png",
+        "Health": "104",
+        "Movement Speed": "335",
+        "Armor": "4.95",
+        "Attack Damage": "4"
+    },
+    {
+        "Name": "Malzahar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Malzahar_Render.png",
+        "Health": "580 - 2297",
+        "Movement Speed": "335",
+        "Armor": "18 - 97.9",
+        "Attack Damage": "55 - 106"
+    },
+    {
+        "Name": "Maokai",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Maokai_Render.png",
+        "Health": "109",
+        "Movement Speed": "335",
+        "Armor": "5.2",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Milio",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Milio_Render.png",
+        "Health": "88",
+        "Movement Speed": "330",
+        "Armor": "4.6",
+        "Attack Damage": "3.2"
+    },
+    {
+        "Name": "Mordekaiser",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Mordekaiser_Render.png",
+        "Health": "645 - 2413",
+        "Movement Speed": "335",
+        "Armor": "37 - 108.4",
+        "Attack Damage": "61 - 129"
+    },
+    {
+        "Name": "Morgana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Morgana_Render.png",
+        "Health": "630 - 2398",
+        "Movement Speed": "335",
+        "Armor": "25 - 110",
+        "Attack Damage": "56 - 115.5"
+    },
+    {
+        "Name": "Naafiri",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Naafiri_Render.png",
+        "Health": "635 - 2675",
+        "Movement Speed": "340",
+        "Armor": "30 - 109.9",
+        "Attack Damage": "55 - 90.7"
+    },
+    {
+        "Name": "Nami",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Nami_Render.png",
+        "Health": "88",
+        "Movement Speed": "335",
+        "Armor": "5.2",
+        "Attack Damage": "3.1"
+    },
+    {
+        "Name": "Nasus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Nasus_Render.png",
+        "Health": "631 - 2399",
+        "Movement Speed": "350",
+        "Armor": "34 - 113.9",
+        "Attack Damage": "67 - 135"
+    },
+    {
+        "Name": "Nautilus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Nautilus_Render.png",
+        "Health": "100",
+        "Movement Speed": "325",
+        "Armor": "4.95",
+        "Attack Damage": "3.3"
+    },
+    {
+        "Name": "Neeko",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Neeko_Render.png",
+        "Health": "610 - 2378",
+        "Movement Speed": "340",
+        "Armor": "21 - 109.4",
+        "Attack Damage": "48 - 90.5"
+    },
+    {
+        "Name": "Nidalee",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Nidalee_Render.png",
+        "Health": "109",
+        "Movement Speed": "335",
+        "Armor": "5",
+        "Attack Damage": "3.5"
+    },
+    {
+        "Name": "Nilah",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Nilah_Render.png",
+        "Health": "570 - 2287",
+        "Movement Speed": "340",
+        "Armor": "27 - 103.5",
+        "Attack Damage": "58 - 92"
+    },
+    {
+        "Name": "Nocturne",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Nocturne_Render.png",
+        "Health": "109",
+        "Movement Speed": "345",
+        "Armor": "4.7",
+        "Attack Damage": "2.6"
+    },
+    {
+        "Name": "Olaf",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Olaf_Render.png",
+        "Health": "645 - 2668",
+        "Movement Speed": "350",
+        "Armor": "35 - 106.4",
+        "Attack Damage": "68 - 147.9"
+    },
+    {
+        "Name": "Orianna",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Orianna_Render.png",
+        "Health": "585 - 2455",
+        "Movement Speed": "325",
+        "Armor": "20 - 91.4",
+        "Attack Damage": "44 - 88.2"
+    },
+    {
+        "Name": "Ornn",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Ornn_Render.png",
+        "Health": "660 - 2513",
+        "Movement Speed": "335",
+        "Armor": "33 - 121.4",
+        "Attack Damage": "69 - 128.5"
+    },
+    {
+        "Name": "Pantheon",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Pantheon_Render.png",
+        "Health": "650 - 2503",
+        "Movement Speed": "345",
+        "Armor": "40 - 124.15",
+        "Attack Damage": "64 - 120.1"
+    },
+    {
+        "Name": "Poppy",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Poppy_Render.png",
+        "Health": "610 - 2378",
+        "Movement Speed": "345",
+        "Armor": "38 - 117.9",
+        "Attack Damage": "60 - 128"
+    },
+    {
+        "Name": "Pyke",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Pyke_Render.png",
+        "Health": "670 - 2540",
+        "Movement Speed": "330",
+        "Armor": "43 - 122.9",
+        "Attack Damage": "62 - 96"
+    },
+    {
+        "Name": "Qiyana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Qiyana_Render.png",
+        "Health": "590 - 2698",
+        "Movement Speed": "335",
+        "Armor": "31 - 110.9",
+        "Attack Damage": "66 - 118.7"
+    },
+    {
+        "Name": "Quinn",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Quinn_Render.png",
+        "Health": "107",
+        "Movement Speed": "330",
+        "Armor": "4.7",
+        "Attack Damage": "2.7"
+    },
+    {
+        "Name": "Rakan",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Rakan_Render.png",
+        "Health": "610 - 2293",
+        "Movement Speed": "335",
+        "Armor": "30 - 113.3",
+        "Attack Damage": "62 - 121.5"
+    },
+    {
+        "Name": "Rammus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Rammus_Render.png",
+        "Health": "675 - 2273",
+        "Movement Speed": "335",
+        "Armor": "40 - 133.5",
+        "Attack Damage": "55 - 101.75"
+    },
+    {
+        "Name": "Rell",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Rell_Render.png",
+        "Health": "610 - 2378",
+        "Movement Speed": "330",
+        "Armor": "36 - 107.4",
+        "Attack Damage": "55 - 106"
+    },
+    {
+        "Name": "Renekton",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Renekton_Render.png",
+        "Health": "660 - 2547",
+        "Movement Speed": "345",
+        "Armor": "35 - 123.4",
+        "Attack Damage": "69 - 139.55"
+    },
+    {
+        "Name": "Rengar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Rengar_Render.png",
+        "Health": "590 - 2358",
+        "Movement Speed": "345",
+        "Armor": "34 - 105.4",
+        "Attack Damage": "68 - 119"
+    },
+    {
+        "Name": "Riven",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Riven_Render.png",
+        "Health": "630 - 2330",
+        "Movement Speed": "340",
+        "Armor": "33 - 107.8",
+        "Attack Damage": "64 - 115"
+    },
+    {
+        "Name": "Rumble",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Rumble_Render.png",
+        "Health": "655 - 2440",
+        "Movement Speed": "345",
+        "Armor": "36 - 115.9",
+        "Attack Damage": "64 - 118.4"
+    },
+    {
+        "Name": "Ryze",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Ryze_Render.png",
+        "Health": "645 - 2753",
+        "Movement Speed": "340",
+        "Armor": "22 - 93.4",
+        "Attack Damage": "58 - 109"
+    },
+    {
+        "Name": "Samira",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Samira_Render.png",
+        "Health": "630 - 2466",
+        "Movement Speed": "335",
+        "Armor": "26 - 105.9",
+        "Attack Damage": "57 - 108"
+    },
+    {
+        "Name": "Sejuani",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Sejuani_Render.png",
+        "Health": "630 - 2568",
+        "Movement Speed": "340",
+        "Armor": "34 - 126.65",
+        "Attack Damage": "66 - 134"
+    },
+    {
+        "Name": "Senna",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Senna_Render.png",
+        "Health": "530 - 2043",
+        "Movement Speed": "330",
+        "Armor": "25 - 93",
+        "Attack Damage": ""
+    },
+    {
+        "Name": "Seraphine",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Seraphine_Render.png",
+        "Health": "570 - 2100",
+        "Movement Speed": "330",
+        "Armor": "26 - 97.4",
+        "Attack Damage": "50 - 101"
+    },
+    {
+        "Name": "Sett",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Sett_Render.png",
+        "Health": "670 - 2608",
+        "Movement Speed": "340",
+        "Armor": "33 - 121.4",
+        "Attack Damage": "60 - 128"
+    },
+    {
+        "Name": "Shaco",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Shaco_Render.png",
+        "Health": "630 - 2313",
+        "Movement Speed": "345",
+        "Armor": "30 - 98",
+        "Attack Damage": "63 - 114"
+    },
+    {
+        "Name": "Shen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Shen_Render.png",
+        "Health": "610 - 2293",
+        "Movement Speed": "340",
+        "Armor": "34 - 105.4",
+        "Attack Damage": "64 - 115"
+    },
+    {
+        "Name": "Shyvana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Shyvana_Render.png",
+        "Health": "665 - 2433",
+        "Movement Speed": "350",
+        "Armor": "38 - 115.35",
+        "Attack Damage": "66 - 117"
+    },
+    {
+        "Name": "Singed",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Singed_Render.png",
+        "Health": "650 - 2333",
+        "Movement Speed": "345",
+        "Armor": "34 - 105.4",
+        "Attack Damage": "63 - 120.8"
+    },
+    {
+        "Name": "Sion",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Sion_Render.png",
+        "Health": "655 - 2134",
+        "Movement Speed": "345",
+        "Armor": "32 - 103.4",
+        "Attack Damage": "68 - 136"
+    },
+    {
+        "Name": "Sivir",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Sivir_Render.png",
+        "Health": "600 - 2368",
+        "Movement Speed": "335",
+        "Armor": "30 - 105.65",
+        "Attack Damage": "60 - 102.5"
+    },
+    {
+        "Name": "Skarner",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Skarner_Render.png",
+        "Health": "630 - 2500",
+        "Movement Speed": "335",
+        "Armor": "33 - 114.6",
+        "Attack Damage": "63 - 114"
+    },
+    {
+        "Name": "Smolder",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Smolder_Render.png",
+        "Health": "575 - 2275",
+        "Movement Speed": "330",
+        "Armor": "26 - 105.9",
+        "Attack Damage": "60 - 99.1"
+    },
+    {
+        "Name": "Sona",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Sona_Render.png",
+        "Health": "550 - 2097",
+        "Movement Speed": "325",
+        "Armor": "26 - 97.4",
+        "Attack Damage": "49 - 100"
+    },
+    {
+        "Name": "Soraka",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Soraka_Render.png",
+        "Health": "88",
+        "Movement Speed": "325",
+        "Armor": "5",
+        "Attack Damage": "3"
+    },
+    {
+        "Name": "Swain",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/Swain_Render.png",
+        "Health": "595 - 2278",
+        "Movement Speed": "330",
+        "Armor": "26 - 114.4",
+        "Attack Damage": "58 - 103.9"
+    },
+    {
+        "Name": "Sylas",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Sylas_Render.png",
+        "Health": "600 - 2674",
+        "Movement Speed": "340",
+        "Armor": "29 - 117.4",
+        "Attack Damage": "61 - 112"
+    },
+    {
+        "Name": "Syndra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Syndra_Render.png",
+        "Health": "563 - 2331",
+        "Movement Speed": "330",
+        "Armor": "25 - 103.2",
+        "Attack Damage": "54 - 103.3"
+    },
+    {
+        "Name": "Taliyah",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Taliyah_Render.png",
+        "Health": "550 - 2318",
+        "Movement Speed": "330",
+        "Armor": "18 - 97.9",
+        "Attack Damage": "58 - 114.1"
+    },
+    {
+        "Name": "Talon",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Talon_Render.png",
+        "Health": "658 - 2511",
+        "Movement Speed": "335",
+        "Armor": "30 - 109.9",
+        "Attack Damage": "68 - 120.7"
+    },
+    {
+        "Name": "Taric",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Taric_Render.png",
+        "Health": "645 - 2328",
+        "Movement Speed": "340",
+        "Armor": "40 - 113.1",
+        "Attack Damage": "55 - 114.5"
+    },
+    {
+        "Name": "Teemo",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Teemo_Render.png",
+        "Health": "615 - 2383",
+        "Movement Speed": "330",
+        "Armor": "24 - 108.15",
+        "Attack Damage": "54 - 105"
+    },
+    {
+        "Name": "Thresh",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Thresh_Render.png",
+        "Health": "120",
+        "Movement Speed": "330",
+        "Armor": "0",
+        "Attack Damage": "2.2"
+    },
+    {
+        "Name": "Tristana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Tristana_Render.png",
+        "Health": "640 - 2374",
+        "Movement Speed": "325",
+        "Armor": "30 - 98",
+        "Attack Damage": "60 - 102.5"
+    },
+    {
+        "Name": "Trundle",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Trundle_Render.png",
+        "Health": "110",
+        "Movement Speed": "350",
+        "Armor": "37 - 103.3",
+        "Attack Damage": "68 - 136"
+    },
+    {
+        "Name": "Tryndamere",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Tryndamere_Render.png",
+        "Health": "696 - 2532",
+        "Movement Speed": "345",
+        "Armor": "33 - 114.6",
+        "Attack Damage": "66 - 134"
+    },
+    {
+        "Name": "Twitch",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Twitch_Render.png",
+        "Health": "630 - 2398",
+        "Movement Speed": "330",
+        "Armor": "27 - 98.4",
+        "Attack Damage": "59 - 111.7"
+    },
+    {
+        "Name": "Udyr",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Udyr_Render.png",
+        "Health": "664 - 2228",
+        "Movement Speed": "350",
+        "Armor": "31 - 110.9",
+        "Attack Damage": "62 - 130"
+    },
+    {
+        "Name": "Urgot",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Urgot_Render.png",
+        "Health": "655 - 2389",
+        "Movement Speed": "330",
+        "Armor": "36 - 121",
+        "Attack Damage": "63 - 131"
+    },
+    {
+        "Name": "Varus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Varus_Render.png",
+        "Health": "600 - 2385",
+        "Movement Speed": "330",
+        "Armor": "27 - 105.2",
+        "Attack Damage": "59 - 116.8"
+    },
+    {
+        "Name": "Vayne",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Vayne_Render.png",
+        "Health": "550 - 2301",
+        "Movement Speed": "330",
+        "Armor": "23 - 101.2",
+        "Attack Damage": "60 - 99.95"
+    },
+    {
+        "Name": "Veigar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Veigar_Render.png",
+        "Health": "580 - 2416",
+        "Movement Speed": "340",
+        "Armor": "18 - 106.4",
+        "Attack Damage": "52 - 97.9"
+    },
+    {
+        "Name": "Vex",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Vex_Render.png",
+        "Health": "590 - 2358",
+        "Movement Speed": "335",
+        "Armor": "23 - 98.65",
+        "Attack Damage": "54 - 100.75"
+    },
+    {
+        "Name": "Vi",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Vi_Render.png",
+        "Health": "655 - 2338",
+        "Movement Speed": "340",
+        "Armor": "30 - 109.9",
+        "Attack Damage": "63 - 114"
+    },
+    {
+        "Name": "Viego",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Viego_Render.png",
+        "Health": "630 - 2483",
+        "Movement Speed": "345",
+        "Armor": "34 - 112.2",
+        "Attack Damage": "60 - 119.5"
+    },
+    {
+        "Name": "Viktor",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Viktor_Render.png",
+        "Health": "600 - 2368",
+        "Movement Speed": "335",
+        "Armor": "23 - 111.4",
+        "Attack Damage": "53 - 104"
+    },
+    {
+        "Name": "Vladimir",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Vladimir_Render.png",
+        "Health": "607 - 2477",
+        "Movement Speed": "330",
+        "Armor": "27 - 103.5",
+        "Attack Damage": "55 - 106"
+    },
+    {
+        "Name": "Volibear",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Volibear_Render.png",
+        "Health": "650 - 2418",
+        "Movement Speed": "340",
+        "Armor": "31 - 119.4",
+        "Attack Damage": "60 - 119.5"
+    },
+    {
+        "Name": "Warwick",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Warwick_Render.png",
+        "Health": "620 - 2303",
+        "Movement Speed": "335",
+        "Armor": "33 - 107.8",
+        "Attack Damage": "65 - 116"
+    },
+    {
+        "Name": "Xayah",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Xayah_Render.png",
+        "Health": "630 - 2449",
+        "Movement Speed": "330",
+        "Armor": "25 - 96.4",
+        "Attack Damage": "60 - 119.5"
+    },
+    {
+        "Name": "Xerath",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Xerath_Render.png",
+        "Health": "596 - 2398",
+        "Movement Speed": "340",
+        "Armor": "22 - 101.9",
+        "Attack Damage": "55 - 106"
+    },
+    {
+        "Name": "Yasuo",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Yasuo_Render.png",
+        "Health": "590 - 2460",
+        "Movement Speed": "345",
+        "Armor": "32 - 110.2",
+        "Attack Damage": "60 - 111"
+    },
+    {
+        "Name": "Yone",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Yone_Render.png",
+        "Health": "620 - 2405",
+        "Movement Speed": "345",
+        "Armor": "33 - 111.2",
+        "Attack Damage": "60 - 94"
+    },
+    {
+        "Name": "Yorick",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Yorick_Render.png",
+        "Health": "650 - 2588",
+        "Movement Speed": "340",
+        "Armor": "39 - 127.4",
+        "Attack Damage": "62 - 147"
+    },
+    {
+        "Name": "Yuumi",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Yuumi_Render.png",
+        "Health": "69",
+        "Movement Speed": "330",
+        "Armor": "4.2",
+        "Attack Damage": "3.1"
+    },
+    {
+        "Name": "Zac",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Zac_Render.png",
+        "Health": "109",
+        "Movement Speed": "340",
+        "Armor": "4.7",
+        "Attack Damage": "3.4"
+    },
+    {
+        "Name": "Zed",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Zed_Render.png",
+        "Health": "654 - 2337",
+        "Movement Speed": "345",
+        "Armor": "32 - 111.9",
+        "Attack Damage": "63 - 120.8"
+    },
+    {
+        "Name": "Zeri",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Zeri_Render.png",
+        "Health": "600 - 2470",
+        "Movement Speed": "330",
+        "Armor": "24 - 95.4",
+        "Attack Damage": "56 - 90"
+    },
+    {
+        "Name": "Ziggs",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Ziggs_Render.png",
+        "Health": "106",
+        "Movement Speed": "325",
+        "Armor": "4.7",
+        "Attack Damage": "3.1"
+    },
+    {
+        "Name": "Zilean",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Zilean_Render.png",
+        "Health": "574 - 2206",
+        "Movement Speed": "335",
+        "Armor": "24 - 109",
+        "Attack Damage": "52 - 103"
+    },
+    {
+        "Name": "Zoe",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Zoe_Render.png",
+        "Health": "630 - 2432",
+        "Movement Speed": "340",
+        "Armor": "21 - 100.9",
+        "Attack Damage": "58 - 114.1"
+    },
+    {
+        "Name": "Zyra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Zyra_Render.png",
+        "Health": "574 - 2155",
+        "Movement Speed": "340",
+        "Armor": "29 - 100.4",
+        "Attack Damage": "53 - 107.4"
+    }
+]
